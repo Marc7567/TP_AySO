@@ -1,1 +1,2 @@
 “Usuario=vagrant”
+model name	: 11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz
