@@ -1,0 +1,361 @@
+git clone https://github.com/Marc7567/Escalera_vagrant.git
+ls
+cd Escalera_vagrant/
+ls
+cd ..
+cd Escalera_vagrant/
+history
+history > historial.txt
+ls
+cat historial.txt 
+git status
+git add .
+git status
+git commit -m "mi 1er commit"
+git config --global user.email "marcosescalera1213@gmail.com"
+git config --global user.name "Marc7567"
+git commit -m "mi 1er commit"
+git push
+gitpush
+git push
+exit
+\
+ls
+whoami
+pwd
+man
+man man
+echo "hola"
+echo $HOME
+pwd
+ls
+cd repogit
+ls
+cd..
+cd ..
+ls
+cd repogit/
+ls
+cd ..
+clear
+ls -la
+ls
+cd repogit/
+ls
+ls -la
+cd ..
+cat README 
+clear
+usu
+clear
+exit
+clear
+apropos dump
+apropos 'dump traffic'
+apropos 
+apropos ls
+apropos man
+apropos "dump traffic"
+apropos "Dump traffic"
+apropos "Dump Traffic"
+apropos "Dump"
+apropos "DUMP"
+apropos -i "dump traffic"
+apropos --help
+apropos -m "dump traffic"
+apropos -m"dump traffic"
+apropos -? "dump traffic"
+apropos "dump traffic" -m
+apropos "dump traffic" 
+sudo apropos "dump traffic" 
+apropos sudo "dump traffic" 
+man apropos
+clear
+sudo mandb
+apropos "dump traffic" 
+clear
+apropos "dump traffic" 
+apropos "dump traffic" > comando_dump_net
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+apropos "dump traffic" > comando_dump_net
+ls
+clear
+ls
+cat comando_dump_net 
+cat echo apropos "dump traffic"
+echo apropos "dump traffic" >> comandos_dump_net
+cat comando_dump_net 
+echo apropos "dump traffic" >> comandos_dump_net
+cat comando_dump_net 
+echo apropos"dump traffic" >> comandos_dump_net
+cat comando_dump_net 
+echo apropos"dump traffic" >>comandos_dump_net
+echo apropos"dump traffic" > comandos_dump_net
+cat comando_dump_net 
+apropos"dump traffic" > comandos_dump_net
+apropos "dump traffic" > comandos_dump_net
+cat comando_dump_net 
+echo apropos "dump traffic" >> comandos_dump_net
+ls
+cat comandos_dump_net 
+ls
+rm -r comandos_dump_net
+ls
+cat comando_dump_net 
+echo apropos "dump traffic" >> comando_dump_net
+cat comando_dump_net 
+git add .
+git status
+git commit-m "ADD:Comando para capturar y analizar trafico de red"
+git commit -m "ADD:Comando para capturar y analizar trafico de red"
+ls
+cd ..
+vagrant halt
+exit
+clear
+ssh-keygen
+cat$HOME/.ssh/*.pub
+cat $HOME/.ssh/*.pub
+ls
+cd repogit
+ls
+git clone git@github.com:Marc7567/TP_AySO.git
+ls
+cd TP_AySO/
+pwd
+ls -l
+ls
+cat/etc/os-release
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls
+cat datos_usuario.txt 
+ls
+clear
+ls
+git add.
+git add .
+git status
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status
+clear
+ls
+cat datos_usuario.txt 
+history
+clear
+/proc
+cat /proc
+cat /cpuinfo
+sudo cat /cpuinfo
+sudo cat /proc/cpuinfo
+clear
+cat /proc/cpuinfo
+cat /proc/cpuinfo | grep -i cpu
+cat /proc/cpuinfo | grep -i model
+cat /proc/cpuinfo | grep -i model name
+cat /proc/cpuinfo | grep -i "model name"
+cat /proc/cpuinfo | grep -i "model name" | head
+cat /proc/cpuinfo | grep -i "model name" | head -n1
+clear
+cat /proc/cpuinfo | grep -i "model name" | head -n1
+cat /proc/cpuinfo | grep -i "model name" 
+cat /proc/cpuinfo | grep "model name" 
+head /proc/cpuinfo | grep "model name" 
+cat /proc/cpuinfo | grep "model name" | head -n1 
+cat /proc/cpuinfo | head -n1 | grep -i "model name"
+cat /proc/cpuinfo | head  | grep -i "model name"
+cat /proc/cpuinfo | head  | grep -i "model name" >> datos_usuario.txt
+ls
+cat datos_usuario.txt 
+git add .
+git commit -m "feat: Añadiendo informacion de CPU"
+git status
+cat /etc/passwd
+cat head /etc/passwd
+clear
+cat /etc/passwd | head
+cat /etc/passwd | head | grep -v 
+cat /etc/passwd | grep -v nologin
+grep -v nologin /etc/passwd
+cat /etc/passwd | grep -v nologin > lista_ordenada
+ls
+cat lista_ordenada 
+clear
+man short
+man sort
+man -k "sort via a key"
+man -k"sort via a key"
+man -k sort
+man sort
+ls
+clear
+ls
+cat lista_ordenada 
+grep -v nologin /etc/passwd | sort-t":" -k7 > lista_ordenada
+sort lista_ordenada -t":" -k7
+cat lista_ordenada 
+ls
+cat lista_ordenada
+grep -v nologin /etc/passwd | sort-t":" -k7 > lista_ordenada
+grep -v nologin /etc/passwd | sort":" -k7 > lista_ordenada
+grep -v nologin /etc/passwd | sort-t":" -k7 > lista_ordenada
+ls
+cat lista_ordenada 
+grep -v nologin /etc/passwd | sort-t":" -k7 > lista_ordenada
+grep -v nologin /etc/passwd | sort -t":" -k7 > lista_ordenada
+cat lista_ordenada 
+clear
+git add .
+git status
+git commit -m "ADD: Listado de usuarios ordenada"
+ls
+cat lista_ordenada 
+clear
+apropod "dump traffic"
+apropos "dump traffic"
+apropos"dump traffic"
+apropos "dump"
+apropos "dump traffic" > comando_dump_net
+apropos "dumptraffic" > comando_dump_net
+sudo apropos "dump traffic"
+sudo apropos "dumptraffic" > comando_dump_net
+sudo apropos "dump traffic" > comando_dump_net
+clear
+man
+man "dump"
+man man
+tcpdump
+cat tcpdump
+sudo tcpdump
+clear
+ls
+ls -la
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls
+cat id_ed25519.pub
+cd ..
+ls
+cd repogit/
+ls
+clear
+ls
+git clone git@github.com:Marc7567/Escalera_vagrant.git
+ls
+cd Escalera_vagrant/
+ls
+history 
+history > historial.txt
+ls
+git status
+git add .
+git status
+git commit -m "mi 1er commit"
+ls
+git push
+git status
+clear
+ls
+git status
+cd ..
+ls
+cd vagrant/
+ls
+cat /etc/passwd
+h
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+clear
+ls
+cat comando_dump_net 
+cat datos_usuario.txt 
+clear
+ls
+car README.md 
+cat README.md 
+cat << FIN >> README.md 
+Alumno: "Marcos Emanuel Escalera Calizaya"
+Division: "113"
+Turno: "mañana"
+FIN
+
+cat README.md 
+cat << FIN >> README.md 
+Alumno: "Marcos Emanuel Escalera Calizaya"
+Division: "113"
+Turno: "mañana"
+FIN
+
+cat README.md 
+cat << FIN >> README.md
+
+FIN
+
+cat README.md 
+cat << FIN > README.md
+
+ Alumno: "Marcos Emanuel Escalera Calizaya"
+Division: "113"
+Turno: "Mañana"
+FIN
+
+cat README.md 
+ls
+clear
+ls
+car README.md 
+cat README.md 
+cat << FIN > README.md
+Alumno: "Marcos Emanuel Escalera Calizaya"
+Division: "113"
+Turno "mañana"
+FIN
+
+cat README.md 
+clear
+git add.
+git add .
+git commit -m "Datos del usuario"
+git status
+fix
+git fix
+git fix -m
+feat: datos personales
+git feat: datos personales
+git feat: "datos personales"
+feat: "datos personales"
+feat:"datos personales"
+clear 
+paths
+PATHS
+PATHS relative
+paths relative
+clear
+history -a
+history -a $HOME/.bash_history
+history -a$HOME/.bash_history
+history -a $HOME/.bash_history
+clear
+ls.la
+ls-la
+ls -la
+history -a $HOME/.bash_history
+ls -la
+ls -la $HOME
+history -a $HOME/.bash_history
